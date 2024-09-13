@@ -1,0 +1,3 @@
+[submodule "connector-telegram"]
+	path = connector-telegram
+	url = https://github.com/cheqd/connector-telegram
